@@ -1,4 +1,4 @@
 recipe_box
 ==========
 
-my github repository for recipe_box rails app
+Dina's github repository for recipe_box rails app
